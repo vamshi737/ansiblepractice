@@ -3,4 +3,4 @@
    tasks:
    -  name: print a message 
       ansible.builtin.debug:
-        msg:"hello, my friend ansible is working"
+        msg: "hello, my friend ansible is working"
