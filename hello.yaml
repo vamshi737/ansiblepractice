@@ -1,5 +1,5 @@
 -  name: my first ansible playbook 
-   hosts: localhost
+   hosts: web
    tasks:
    -  name: print a message 
       ansible.builtin.debug:
